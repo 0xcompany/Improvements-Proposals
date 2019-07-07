@@ -1,7 +1,27 @@
-# Покращення / Пропозиції
+<br/>
+<br/>
 
-Даний репозиторій несе в собі ціль покращення процесів в 0хCompany, де кожен учасник ком’юніті може внести пропозицію по оптимізації чи покращенні процесів.
+## 0xProposals 
 
-### Що потрібно для внесення своєї ідеї?
-Створити issue яке буде відповідати шаблону та відповідати на запитання в ньому. 
-Після чого, issue може отримати статус “задачі” лише у тому випадку, якщо вона повністю зрозуміла іншим членам ком’юніті і більшість із них із нею з’єднані і проголосували “за”.
+_The place where all cool things begins._
+
+<br/>
+<br/>
+
+## What is it all about?
+This repo collects all great ideas and improvement proposals from team/community members. <br/>
+Here we maintain all things, that are vision- or processes-related, discuss them and vote for most valuable.
+Here we also define a simple protocol for this things to keep process moderated, efficient and results generative.
+
+## The Protocol
+Please, feel free to propose some idea or improvement proposal, but, please, **keep in mind several simple recommendations**:
+
+1. Create an issue with as short as possible short, but still complete description of your idea.
+1. The content of an issue shoud correspond to proposed template.
+1. Issue can be in one of 2 statuses: "open" and "approved". Newly created issues are considered as "open" and should be discussed by the community. When it is clear for the corresponding people what is it all about, what should be done, and what value will this work generate, _and consensus part of the community has positively voted for it_ - then the issue goes into "approved" status.
+
+### The voting
+1. To vote for issue - simply react on it via some emoji :stuck_out_tongue_winking_eye:
+
+### Issue Template
+1. Feel free to open 0xip (improvement proposals) for template as well. 
