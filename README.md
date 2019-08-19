@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-## 0xProposals 
+![Logo](https://github.com/0xCompany/0xDesign/blob/master/logos/0xProposals/0.5x/0xProposals_dark@0.5x.png?raw=true)
 
 _The place where all cool things begins._
 
